@@ -1,0 +1,2 @@
+# No external dependencies — uses Python built-in libraries only
+# (json, os, datetime)
